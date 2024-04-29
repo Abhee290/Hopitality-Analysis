@@ -1,4 +1,5 @@
-Overview
+Dashboard link-https://project.novypro.com/0q22vR
+
 AtliQ Grands, a prominent player in the hospitality industry, has faced challenges in market share and revenue due to stiff competition and suboptimal management decisions. To address this, the managing director aims to leverage “Business and Data Intelligence.” As an external data analyst, your role is crucial in providing actionable insights from historical data. This readme guide outlines the process and key deliverables.
 
 Task Description
